@@ -1,11 +1,11 @@
-# 📱 QR Code Generator (Python Tkinter)
+#  QR Code Generator (Python Tkinter)
 
 A simple desktop application that converts any URL into a QR code image.  
 Built using Python, Tkinter, and the qrcode library.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Convert any URL into a QR code
 - Preview generated QR code inside the app
@@ -14,16 +14,16 @@ Built using Python, Tkinter, and the qrcode library.
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
-- Python 🐍
+- Python 
 - Tkinter (GUI)
 - qrcode library
 - tempfile module
 
 ---
 
-## 🧑‍💻 How It Works
+##  How It Works
 
 1. Enter a URL in the input box  
 2. Click **Convert**  
