@@ -33,7 +33,7 @@ Built using Python, Tkinter, and the qrcode library.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 Install required library:
 ```bash
